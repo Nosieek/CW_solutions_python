@@ -38,7 +38,7 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 | [**Directions Reduction**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/5kyuDirectionsReduction.py)  | [Open](https://www.codewars.com/kata/550f22f4d758534c1100025a) |
 | [**Extract the domain name from a URL**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/5kyuExtractSomainURL.py)  | [Open](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
 | [**Help your granny!**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/5kyuHelpUrGranny.py)  | [Open](https://www.codewars.com/kata/5536a85b6ed4ee5a78000035) |
-| [**Break the Caesar!**](https://github.com/Nosieek/CodeWars_solution_python/blob/main/5KyuKata/BreakTheCesar.py)  | [Open](https://www.codewars.com/kata/598e045b8c13926d8c0000e8/python) |
+| [**Break the Caesar!**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/BreakTheCesar.py)  | [Open](https://www.codewars.com/kata/598e045b8c13926d8c0000e8/python) |
 | [**First Variation on Caesar Cipher**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/CaesarCipher.py)  | [Open](https://www.codewars.com/kata/5508249a98b3234f420000fb/python) |
 | [**Calculating with Functions**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/calculatingWithFunctions.py)  | [Open](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) |
 | [**Factorial decomposition**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/FactorialDecomposition.py)  | [Open](https://www.codewars.com/kata/5a045fee46d843effa000070) |
