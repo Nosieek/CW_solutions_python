@@ -10,29 +10,7 @@ complete. They include tasks that may handle:
     - Advanced design patterns
     - Understanding intricate business requirements
     - Advanced concepts such as concurrency, parallelism, meta programming and cryptography
----
-5 kyu kata represent a novice programming level. At this level, the kata are similar to 6 kyu but more challenging.
-It includes:
-    - Complex language features that require mature OOP/Functional concepts
-    - Advanced OOP/Functional concepts
-    - Complex Design Patterns
-    - Advanced regular expression usage
----
-6 kyu kata represent a novice programming level. At this level, the kata will start to include more 
-advanced algorithmic challenges and more complex language features. It includes:
-    - Complex language features (closures, scopes, monads, etc)
-    - Complex OOP/Functional concepts
-    - Basic Design Patterns
-    - Complex Regular Expressions
----
 
-7 kyu kata represent a beginner programming level. At this level, the kata will generally challenge users on their 
-core language and API reference knowledge. Tasks such as:
-    - Iterating arrays and returning a subset of values
-    - Basic data type manipulations
-    - Basic functional or object-oriented concepts
-    - Basic Regular Expressions
----
 ---
 
 
@@ -52,7 +30,13 @@ core language and API reference knowledge. Tasks such as:
 
 
 ---
-
+5 kyu kata represent a novice programming level. At this level, the kata are similar to 6 kyu but more challenging.
+It includes:
+    - Complex language features that require mature OOP/Functional concepts
+    - Advanced OOP/Functional concepts
+    - Complex Design Patterns
+    - Advanced regular expression usage
+---
 
 ## 5Kyu Katas
 
@@ -88,7 +72,13 @@ core language and API reference knowledge. Tasks such as:
 
 ---
 
-
+6 kyu kata represent a novice programming level. At this level, the kata will start to include more 
+advanced algorithmic challenges and more complex language features. It includes:
+    - Complex language features (closures, scopes, monads, etc)
+    - Complex OOP/Functional concepts
+    - Basic Design Patterns
+    - Complex Regular Expressions
+---
 ## 6Kyu Katas
 
 
@@ -123,6 +113,14 @@ core language and API reference knowledge. Tasks such as:
 ---
 
 
+7 kyu kata represent a beginner programming level. At this level, the kata will generally challenge users on their 
+core language and API reference knowledge. Tasks such as:
+    - Iterating arrays and returning a subset of values
+    - Basic data type manipulations
+    - Basic functional or object-oriented concepts
+    - Basic Regular Expressions
+---
+
 ## 7Kyu Katas
 
 
@@ -141,6 +139,14 @@ core language and API reference knowledge. Tasks such as:
 
 ---
 
+
+8 kyu kata represent a beginner level. At this level, the kata are only challenging for users new to programming. 
+This includes programming tasks such as:
+    - Defining a simple function (i.e. hello world)
+    - Basic variable assignments
+    - Fixing basic syntax issues
+    - Trivial algorithms such as basic if/else statements
+---
 ## 8Kyu Katas
 
 
