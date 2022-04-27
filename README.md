@@ -2,35 +2,37 @@
 
 Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.com/users/Nosieek)!
 
-#LEGEND about Kyu katas:
-===
-4 kyu kata represent a competent programming level. At this level, the kata begin to take some serious thought to complete. They include tasks that may handle:
+LEGEND about Kyu katas:
+---
+4 kyu kata represent a competent programming level. At this level, the kata begin to take some serious thought to
+complete. They include tasks that may handle:
     - Computer science concepts utilizing complex algorithms
     - Advanced design patterns
     - Understanding intricate business requirements
     - Advanced concepts such as concurrency, parallelism, meta programming and cryptography
-===
-5 kyu kata represent a novice programming level. At this level, the kata are similar to 6 kyu but more challenging. It includes:
+---
+5 kyu kata represent a novice programming level. At this level, the kata are similar to 6 kyu but more challenging.
+It includes:
     - Complex language features that require mature OOP/Functional concepts
     - Advanced OOP/Functional concepts
     - Complex Design Patterns
     - Advanced regular expression usage
-
-===
-6 kyu kata represent a novice programming level. At this level, the kata will start to include more advanced algorithmic challenges and more complex language features. It includes:
+---
+6 kyu kata represent a novice programming level. At this level, the kata will start to include more 
+advanced algorithmic challenges and more complex language features. It includes:
     - Complex language features (closures, scopes, monads, etc)
     - Complex OOP/Functional concepts
     - Basic Design Patterns
     - Complex Regular Expressions
+---
 
-===
-
-7 kyu kata represent a beginner programming level. At this level, the kata will generally challenge users on their core language and API reference knowledge. Tasks such as:
+7 kyu kata represent a beginner programming level. At this level, the kata will generally challenge users on their 
+core language and API reference knowledge. Tasks such as:
     - Iterating arrays and returning a subset of values
     - Basic data type manipulations
     - Basic functional or object-oriented concepts
     - Basic Regular Expressions
-===
+---
 ---
 
 
