@@ -2,7 +2,35 @@
 
 Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.com/users/Nosieek)!
 
+#LEGEND about Kyu katas:
+===
+4 kyu kata represent a competent programming level. At this level, the kata begin to take some serious thought to complete. They include tasks that may handle:
+    - Computer science concepts utilizing complex algorithms
+    - Advanced design patterns
+    - Understanding intricate business requirements
+    - Advanced concepts such as concurrency, parallelism, meta programming and cryptography
+===
+5 kyu kata represent a novice programming level. At this level, the kata are similar to 6 kyu but more challenging. It includes:
+    - Complex language features that require mature OOP/Functional concepts
+    - Advanced OOP/Functional concepts
+    - Complex Design Patterns
+    - Advanced regular expression usage
 
+===
+6 kyu kata represent a novice programming level. At this level, the kata will start to include more advanced algorithmic challenges and more complex language features. It includes:
+    - Complex language features (closures, scopes, monads, etc)
+    - Complex OOP/Functional concepts
+    - Basic Design Patterns
+    - Complex Regular Expressions
+
+===
+
+7 kyu kata represent a beginner programming level. At this level, the kata will generally challenge users on their core language and API reference knowledge. Tasks such as:
+    - Iterating arrays and returning a subset of values
+    - Basic data type manipulations
+    - Basic functional or object-oriented concepts
+    - Basic Regular Expressions
+===
 ---
 
 
@@ -20,8 +48,6 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 
 <br>
 
-
----
 
 ---
 
@@ -53,7 +79,7 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 | [**Valid Parentheses**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/ValidParentheses.py)  | [Open](https://www.codewars.com/kata/52774a314c2333f0a7000688) |
 | [**Vector class**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/Vector_class.py)  | [Open](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4) |
 | [**Write out numbers**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/WriteOutNum.py)  | [Open](https://www.codewars.com/kata/52724507b149fa120600031d) |
-| [** **]()  | [Open]() |
+| [**PaginationHelper**](https://github.com/Nosieek/CW_solutions_python/blob/main/5KyuKata/pagination_helper.py)  | [Open](https://www.codewars.com/kata/515bb423de843ea99400000a) |
 
 <br>
 
@@ -69,9 +95,24 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 
 | My solutions Kata(s) | CodeWars Task |
 |--|--|
+| [**Sortable Shapes**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/Sortable_shapes.py)  | [Open](https://www.codewars.com/kata/586669a8442e3fc307000048) |
+| [**Simple Web Framework #1: Create a basic router**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/SimpleWebFramwork.py)  | [Open](https://www.codewars.com/kata/588a00ad70720f2cd9000005) |
+| [**Simple Substitution Cipher Helper**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/SimpleSubCipherHelper.py)  | [Open](https://www.codewars.com/kata/52eb114b2d55f0e69800078d) |
+| [**IPv4 to int 32**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/6kyuIPv4ToInt32.py)  | [Open](https://www.codewars.com/kata/52ea928a1ef5cfec800003ee) |
+| [**Image host filename generator**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/filename_generator.py)  | [Open](https://www.codewars.com/kata/586a933fc66d187b6e00031a/) |
 | [**Detect Pangram**](https://github.com/Nosieek/CodeWars_solution_python/blob/main/6kyuKata/6Kyu_Pangram.py)  | [Open](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) |
 | [**Bouncing Balls**](https://github.com/Nosieek/CodeWars_solution_python/blob/main/6kyuKata/6kyuBouncingBalls.py)  | [Open](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) |
 | [**Data Reverse**](https://github.com/Nosieek/CodeWars_solution_python/blob/main/6kyuKata/6kyuDataReverse.py)  | [Open](https://www.codewars.com/kata/569d488d61b812a0f7000015) |
+| [**Detect Pangram**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/6Kyu_Pangram.py)  | [Open](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) |
+| [**Bouncing Balls**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/6kyuBouncingBalls.py)  | [Open](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) |
+| [**Data Reverse**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/6kyuDataReverse.py)  | [Open](https://www.codewars.com/kata/569d488d61b812a0f7000015) |
+| [**Give me a Diamond**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/6kyuGiveMeDiamond.py)  | [Open](https://www.codewars.com/kata/5503013e34137eeeaa001648) |
+| [**Kebabize**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/6kyuKebabize.py)  | [Open](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) |
+| [**Multi-tap Keypad Text Entry on an Old Mobile Phone**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/6kyuMultiTapPhone.py)  | [Open](https://www.codewars.com/kata/54a2e93b22d236498400134b) |
+| [**Playing with digits**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/6kyuPlayingWithDigits.py)  | [Open](https://www.codewars.com/kata/5552101f47fc5178b1000050) |
+| [**Sort the odd**](https://github.com/Nosieek/CW_solutions_python/blob/main/6kyuKata/6kyuSortTheOdd.py)  | [Open](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) |
+| [**More other katas**](https://github.com/Nosieek/CW_solutions_python/tree/main/6kyuKata)  | [Open](https://github.com/Nosieek/CW_solutions_python/tree/main/6kyuKata) |
+
 
 
 <br>
@@ -91,7 +132,7 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 | [**Descending Order**](https://github.com/Nosieek/CodeWars_solution_python/blob/main/7KyuKata/DescendingOrder.py)  | [Open](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/) |
 | [**Odd or Even**](https://github.com/Nosieek/CodeWars_solution_python/blob/main/7KyuKata/OddOrEven.py)  | [Open](https://www.codewars.com/kata/5949481f86420f59480000e7) |
 | [**Sum of the first nth term of Series**](https://github.com/Nosieek/CodeWars_solution_python/blob/main/7KyuKata/SumTermSeries.py)  | [Open](https://www.codewars.com/kata/555eded1ad94b00403000071) |
-
+| [**More other katas**](https://github.com/Nosieek/CW_solutions_python/tree/main/7KyuKata)  | [Open](https://github.com/Nosieek/CW_solutions_python/tree/main/7KyuKata) |
 
 <br>
 
@@ -109,7 +150,7 @@ Join [CodeWars](https://www.codewars.com) and follow [me](https://www.codewars.c
 | [**A Needle in the Haystack**](https://github.com/Nosieek/CodeWars_solution_python/blob/main/8KyuKata/NeedleHaystack.py)  | [Open](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) |
 | [**Beginner - Lost Without a Map**](https://github.com/Nosieek/CodeWars_solution_python/blob/main/8KyuKata/BegginerLostMap.py)  | [Open](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) |
 | [**Convert boolean values to strings 'Yes' or 'No'.**](https://github.com/Nosieek/CodeWars_solution_python/blob/main/8KyuKata/ConvertBoolean.py)  | [Open](https://www.codewars.com/kata/53369039d7ab3ac506000467) |
-
+| [**More other katas**](https://github.com/Nosieek/CW_solutions_python/tree/main/8KyuKata)  | [Open](https://github.com/Nosieek/CW_solutions_python/tree/main/8KyuKata) |
 <br>
 
 
